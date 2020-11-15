@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyyy ;) 👋
 
 <!--
 **Kalonic/Kalonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/407221681858412575?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/407221681858412575&color=1ED45F)
+![Profile Views](https://komarev.com/ghpvc/?username=Kalonic)
+
+Hi, I'm Faisal (aka Kalonic), and I love programming in Python and messing with linux things :)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalonic&count_private=true&show_icons=true&theme=dracula)
+
+got this from @augudev via @kyusadev :)
